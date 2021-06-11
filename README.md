@@ -28,7 +28,6 @@ Para executar o projeto, você precisa ter o seguinte instalado:
 - [Git](https://git-scm.com);
 - [PHP](https://www.php.net/downloads);
 - [Composer](https://getcomposer.org/download/);
-- [MySQL](https://www.mysql.com/downloads/);
 - [NodeJS](https://nodejs.org/en/);
 - [NPM](https://www.npmjs.com/package/npm);
 
